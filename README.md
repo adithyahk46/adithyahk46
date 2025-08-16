@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif)"  />
 
 ###
 
@@ -67,9 +67,7 @@
 ###
 
 <br clear="both">
-/*
-<img src="https://raw.githubusercontent.com/adithyahk46/adithyahk46/output/snake.svg" alt="Snake animation" />
-*/
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adithyahk46/adithyahk46/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adithyahk46/adithyahk46/output/github-contribution-grid-snake.svg">

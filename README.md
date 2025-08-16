@@ -3,7 +3,7 @@
 <div align="center">
 
 **[<kbd> <br> Work Experience <br> </kbd>](#work-experience)**
-**[<kbd> <br> My Opensource Contributions <br> </kbd>](#my-opensource)**
+**[<kbd> <br>My Opensource Contributions<br> </kbd>](#my-opensource)**
 
 </div>
 
@@ -80,6 +80,7 @@
 </picture>
 
 ###
+ <h2 align="left" id = "my-opensource"> 🤝 My Open Source Contributions 🌐💙 </h2>
 
 | 🎁 Repo | ⭐ Stars | 📚 Forks | 👥 Contributors | ✅ My Contributions |
 | --- | --- | --- | --- | --- |

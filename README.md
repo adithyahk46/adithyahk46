@@ -1,8 +1,11 @@
 <h2  align="center">Hi <img src="https://github.com/ItsRoy69/ItsRoy69/blob/main/Hi.gif" width="30">, I'm Adithya !!</h2>
 <h3  align="center">A passionate Software Developer from Banglore, India</h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Be+Consistent.+Have+a+good+day+!!"></p>
+<div align="center">
 
-###
+**[<kbd> <br> Work Experience <br> </kbd>](#work-experience)**
+**[<kbd> <br> My Opensource Contributions <br> </kbd>](#my-opensource)**
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adithyahk46&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -77,3 +80,8 @@
 </picture>
 
 ###
+
+| 🎁 Repo | ⭐ Stars | 📚 Forks | 👥 Contributors | ✅ My Contributions |
+| --- | --- | --- | --- | --- |
+| [![GitHub Repo](https://img.shields.io/badge/osgEarth-osgEarth-blue?style=flat-square)](https://github.com/gwaldron/osgearth) | ![GitHub Repo stars](https://img.shields.io/github/stars/gwaldron/osgearth?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/gwaldron/osgearth?style=flat-square) | ![Contributors](https://img.shields.io/github/contributors/gwaldron/osgearth?style=flat-square) | [![PR #2820](https://img.shields.io/badge/PR%20%232820-Merged-brightgreen?style=flat-square)](https://github.com/gwaldron/osgearth/pull/2820) <br> [![Commit](https://img.shields.io/badge/Commit-2e3c242-blue?style=flat-square)](https://github.com/gwaldron/osgearth/commit/2e3c242c03bc3c6c1961e693cd0413f2274ea2dc) |
+

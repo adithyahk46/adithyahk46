@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Adithya and I'm a C++ Software Developer from Banglore, India</h2>
+<h2  align="center">Hi <img src="https://github.com/ItsRoy69/ItsRoy69/blob/main/Hi.gif" width="30">, I'm Adithya !!</h2>
+<h3  align="center">A passionate Software Developer from Banglore, India</h3>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Be+Consistent.+Have+a+good+day+!!"></p>
 
 ###
 

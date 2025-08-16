@@ -1,10 +1,10 @@
 <h2  align="center">Hi <img src="https://github.com/ItsRoy69/ItsRoy69/blob/main/Hi.gif" width="30">, I'm Adithya !!</h2>
 <h3  align="center">A passionate Software Developer from Banglore, India</h3>
 <div align="center">
-
-**[<kbd> <br> Work Experience <br> </kbd>](#work-experience)**
-**[<kbd> <br>My Opensource Contributions<br> </kbd>](#my-opensource)**
-
+<p align="center">
+  <a href="#work-experience"><img src="https://img.shields.io/badge/-Work_Experience-blue?style=for-the-badge" /></a>
+  <a href="#my-opensource"><img src="https://img.shields.io/badge/-Open_Source_Contributions-green?style=for-the-badge" /></a>
+</p>
 </div>
 
 <div align="center">
@@ -80,9 +80,14 @@
 </picture>
 
 ###
- <h2 align="left" id = "my-opensource"> 🤝 My Open Source Contributions 🌐💙 </h2>
 
-| 🎁 Repo | ⭐ Stars | 📚 Forks | 👥 Contributors | ✅ My Contributions |
-| --- | --- | --- | --- | --- |
-| [![GitHub Repo](https://img.shields.io/badge/osgEarth-osgEarth-blue?style=flat-square)](https://github.com/gwaldron/osgearth) | ![GitHub Repo stars](https://img.shields.io/github/stars/gwaldron/osgearth?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/gwaldron/osgearth?style=flat-square) | ![Contributors](https://img.shields.io/github/contributors/gwaldron/osgearth?style=flat-square) | [![PR #2820](https://img.shields.io/badge/PR%20%232820-Merged-brightgreen?style=flat-square)](https://github.com/gwaldron/osgearth/pull/2820) <br> [![Commit](https://img.shields.io/badge/Commit-2e3c242-blue?style=flat-square)](https://github.com/gwaldron/osgearth/commit/2e3c242c03bc3c6c1961e693cd0413f2274ea2dc) |
+<h2 align="left" id="my-opensource"> 🤝 My Open Source Contributions 🌐💙 </h2>
+
+| 🎁 Repo | ⭐ Stars | 📚 Forks | 🛠 Tech Stack | 👥 Contributors  | ✅ My Contributions |
+| --- | --- | --- | --- | --- | --- |
+| [![GitHub Repo](https://img.shields.io/badge/osgEarth-osgEarth-blue?style=flat-square)](https://github.com/gwaldron/osgearth) | ![GitHub Repo stars](https://img.shields.io/github/stars/gwaldron/osgearth?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/gwaldron/osgearth?style=flat-square) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) | ![Contributors](https://img.shields.io/github/contributors/gwaldron/osgearth?style=flat-square) | [![PR #2820](https://img.shields.io/badge/PR%20%232820-Merged-brightgreen?style=flat-square)](https://github.com/gwaldron/osgearth/pull/2820) <br> [![Commit](https://img.shields.io/badge/Commit-2e3c242-blue?style=flat-square)](https://github.com/gwaldron/osgearth/commit/2e3c242c03bc3c6c1961e693cd0413f2274ea2dc) |
+
+###
+
+
 

@@ -97,6 +97,7 @@
       <td><b> 💼 Designation </b></td> 
       <td><b> 🏢Organization </b></td> 
       <td><b> ⏰Timeline  </b></td> 
+      <td><b> 🛠Skills </b></td>
       </tr>
   </thead>
   <tbody> 
@@ -104,9 +105,15 @@
       <td> <b>Associate Software Engineer</b> </td>
       <td><a href="https://mgtechsoft.com/"/><b>Microgenesis Techsoft</b></a></td>
       <td> <b>NOV 2024 - Present </b> </td>
-   </tr>
-   <tr>
-      <td> <b>Product Development Intern</b> </td>
-      <td><a href="https://www.zeuron.co/"/><b>Zeuron.ai</b></a></td>
-      <td> <b>Mar 2024 - Aug 2024 </b> </td>
-   </tr>  
+     </tr>
+    <tr>
+      <td><b>Product Development Intern</b></td>
+      <td><a href="https://www.zeuron.co/" target="_blank"><b>Zeuron.ai</b></a></td>
+      <td><b>Mar 2024 - Aug 2024</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
+      </td>
+  </tr>
+  </tbody>
+

@@ -89,5 +89,24 @@
 
 ###
 
+<h2 align="left" id = "work-experience">🚀 Work Experience :computer_mouse: :desktop_computer: </h2> 
 
-
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b> 💼 Designation </b></td> 
+      <td><b> 🏢Organization </b></td> 
+      <td><b> ⏰Timeline  </b></td> 
+      </tr>
+  </thead>
+  <tbody> 
+    <tr>
+      <td> <b>Associate Software Engineer</b> </td>
+      <td><a href="https://mgtechsoft.com/"/><b>Microgenesis Techsoft</b></a></td>
+      <td> <b>NOV 2024 - Present </b> </td>
+   </tr>
+   <tr>
+      <td> <b>Product Development Intern</b> </td>
+      <td><a href="https://www.zeuron.co/"/><b>Zeuron.ai</b></a></td>
+      <td> <b>Mar 2024 - Aug 2024 </b> </td>
+   </tr>  

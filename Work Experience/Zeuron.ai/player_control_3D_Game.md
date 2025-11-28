@@ -1,7 +1,7 @@
 [▶️ Click to Play Video](https://drive.google.com/file/d/1Rv5t58mGUekkLJny_2Iqa8v2DLu73Wnu/preview)
 
 <video width="640" controls>
-  <source src="./VID-20240520-WA0005.mp4" type="video/mp4">
+  <source src="VID-20240520-WA0005.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
